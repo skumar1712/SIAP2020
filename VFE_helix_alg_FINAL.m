@@ -1,9 +1,3 @@
-    % In October 2018, we found a mistake regarding the angle "theta_m",
-% therefore the following problem incorporates that and thus, modifying
-% "VFE_helix_alg_fin" in the similar sense. 
-% Modified: October 23, 2018 (CHECK THE LATEST VERSION VFE_HELIX_ALG.m)
-% Conclusion: The method is CORRECT. 
-
 % -----------------------------------------
 % In this program, we construct the solution for VFE at rational times
 % ALGEBRAICALLY. In order to do so, we compute the angle theta_q 
